@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Datastorage</string>
+    <string name="btn_insert">Insert New Item</string>
+    <string name="btn_search">Search Item</string>
+</resources>
